@@ -4,9 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=300&lines=BongSangKim+Github)](https://git.io/typing-svg)
 
-### Activity
-- 삼성 SW 청년 아카데미 (24.01.01 ~ )
-
+문제 해결을 즐기는 개발자 김봉상입니다.
 
 * * *
  
@@ -104,6 +102,13 @@
 <hr/>
 
 <!-- mode end -->
+
+### Activity
+- 삼성 SW 청년 아카데미 (24.01.01 ~ )
+
+* * * 
+<!-- endline -->
+
 
 
 <div align=center>
@@ -224,8 +229,6 @@
 </div>
 
 
-## 👋 &nbsp;Hi there
-끊임없이 성장하며 끝까지 책임을 완수하는 개발자입니다. <br/>
 
 ## 🛠️&nbsp; Tech Stacks
 
