@@ -306,7 +306,8 @@ start.spring.io(Bean Validation Description Change)
         <img src="https://github-readme-stats.vercel.app/api?username=BongSangKim&&show_icons=true&theme=tokyonight&rank_icon=percentile&\locale=kr" style="margin-left: 10px; vertical-align:top" height=130 />
     </a>
 	
-![BongSangKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=BongSangKim&show_icons=true&theme=transparent)
+![BongSangKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=BongSangKim&layout=compact&theme=tokyonight&show_icons=true&theme=transparent)
+
     <a>
     	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BongSangKim&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook,CSS,PUG,Batchfile,shell" style="margin-left: 10px; vertical-align:top" height=130 />
     </a>
