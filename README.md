@@ -99,66 +99,53 @@
   </thead>
   <tbody>
      <tr>
-      <td>SSAFY 11기</td>
-      <td><b><a href="https://github.com/2pearl/IJoA">IJoA(아이조아)</a></b></td>
-      <td>Backend, DBA, Infra</td>
-      <td>🏆우수상</td>
-      <td>2024</td>
+      <td>개인프로젝트</td>
+      <td><b><a href="https://github.com/BongSangKim/noteshub-view-switcher">NotesHub View Switcher</a></b></td>
+      <td>Chrome Extension, JavaScript, CSS</td>
+      <td>Chrome 웹스토어 출시</td>
+      <td>2024.11</td>
     </tr>
      <tr>
       <td>SSAFY 11기</td>
-      <td><b><a href="https://github.com/2pearl/TravelUs">TravelUs(트래블어스)</a></b></td>
-      <td>Backend, DBA</td>
-      <td>🏆우수상</td>
-      <td>2024</td>
+      <td><b><a href="https://github.com/BongSangKim/FixSpeech">FIXSPEECH</a></b></td>
+      <td>Frontend(SEO, three.js), FFT, Backend, AI</td>
+      <td>🏆 우수상</td>
+      <td>2024.10 ~ 2024.11</td>
     </tr>
      <tr>
-      <td>SSAFY 11기<br/>(2024 Shinhan-Hackathon)</td>
-      <td><b><a href="https://github.com/2024-Shinhan-Hackathon-ForeignKey/soltravel">Soltravel(솔트래블)</a></b></td>
-      <td>Leader, Backend, DBA</td>
-      <td>참여</td>
-      <td>2024</td>
-    </tr>
-     <tr>
-      <td>SSAFY 11기</td>
-      <td><b><a href="https://github.com/2pearl/Saturi">사투리가 서툴러유</a></b></td>
-      <td>Leader, Backend, DBA</td>
-      <td>참여</td>
-      <td>2024</td>
+      <td>개인프로젝트</td>
+      <td><b><a href="#">구미 SSAFY 식단 알림 서비스</a></b></td>
+      <td>Full Stack, express, SQLite</td>
+      <td>서버 배포</td>
+      <td>2024.09 ~ 2024.10</td>
     </tr>
      <tr>
       <td>SSAFY 11기</td>
-      <td><b><a href="https://github.com/2pearl/WhereIsMyHome">WhereIsMyHome</a></b></td>
-      <td>Leader, Backend, DBA</td>
+      <td><b><a href="https://github.com/BongSangKim/Mijung">미정(味定)</a></b></td>
+      <td>Frontend, UX/UI, cosine similarity</td>
       <td>참여</td>
-      <td>2024</td>
+      <td>2024.08 ~ 2024.10</td>
     </tr>
      <tr>
-      <td>대학교</td>
-      <td><b><a href="https://github.com/2pearl/happy_home">소통하는주거환경</a></b></td>
-      <td>Backend, DBA</td>
+      <td>SSAFY 11기</td>
+      <td><b><a href="https://github.com/BongSangKim/Moducha">모두차, 모두를 위한 차</a></b></td>
+      <td>Leader, Frontend, JWT Login</td>
       <td>참여</td>
-      <td>2021</td>
+      <td>2024.07 ~ 2024.08</td>
     </tr>
      <tr>
-      <td>대학교<br/>(2020 IoT 경진대회)</td>
-      <td><b><a href="https://github.com/2pearl/LatteIsPanda">라떼는판다야</a></b></td>
-      <td>AI, Embedded</td>
-      <td>🏆우수상</td>
-      <td>2020</td>
-    </tr>
-     <tr>
-      <td>대학교</td>
-      <td><b><a href="https://github.com/2pearl/nyam_project">뭐먹냠혼자먹냠</a></b></td>
-      <td>Backend, DBA</td>
-      <td>참여</td>
-      <td>2020</td>
+      <td>DGIST</td>
+      <td><b><a href="https://github.com/BongSangKim/UGRP">강화학습을 이용한 에너지 효율적인 초고밀도 네트워크 디자인</a></b></td>
+      <td>AI, Pytorch, Reinforcement Learning</td>
+      <td>학부 연구 프로젝트</td>
+      <td>2019.03 ~ 2019.12</td>
     </tr>
   </tbody>
 </table>
 
 ### 🤝 Contribution
-[Angular - Contributing Guide (improve readability)](https://github.com/angular/angular/pull/56974)
+[Ggoogle-oauth2-login-spring-react-demo
+](https://github.com/baezzys/google-oauth2-login-spring-react-demo)
 
 ## 💻 Stats 
 
