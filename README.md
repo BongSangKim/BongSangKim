@@ -108,22 +108,6 @@
 
 <!-- mode end -->
 
-### Pearl's GitHub 👋
-
-
-<div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=ffe4e1&height=200&section=header&text=Pearl's%20Github!&fontSize=90" />	
-</div>
-
-<div align=center>
-<br>
-<h3>🏆 Baekjoon solved🏆</h3>
-
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwlswn3539)
-<img src="http://mazandi.herokuapp.com/api?handle=dlwlswn3539&theme=cold"/>
-</div>
-<br>
-
 
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
@@ -322,25 +306,13 @@ start.spring.io(Bean Validation Description Change)
 #### 🎓 Github Stats
 <p align="left">
     <a>
-        <img src="https://github-readme-stats.vercel.app/api?username=sihyunjojo&&show_icons=true&theme=tokyonight&rank_icon=percentile&\locale=kr" style="margin-left: 10px; vertical-align:top" height=130 />
+        <img src="https://github-readme-stats.vercel.app/api?username=BongSangKim&&show_icons=true&theme=tokyonight&rank_icon=percentile&\locale=kr" style="margin-left: 10px; vertical-align:top" height=130 />
     </a>
     <a>
-    	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sihyunjojo&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook,CSS,PUG,Batchfile,shell" style="margin-left: 10px; vertical-align:top" height=130 />
+    	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BongSangKim&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook,CSS,PUG,Batchfile,shell" style="margin-left: 10px; vertical-align:top" height=130 />
     </a>
 </p>
 
-#### 🛠️ Algorithm Stats
-<p align="left">
-    <a href="https://solved.ac/plate0113">
-    	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=plate0113" style="margin-left: 1px; vertical-align:top" height=130 />
-    </a>
-    <!-- 
-    <a href="https://solved.ac/plate0113">
-        <img src="http://mazandi.herokuapp.com/api?handle=plate0113&theme=cold" style="margin-left: 1px; vertical-align:top" height=130 />
-    </a> 
-    -->
-    <!-- cold, dark, warm -->
-</p>
 
 #### ⏲️ WorkStats
 <!-- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sihyunjojo&hide_progress=true&theme=dark) -->
@@ -366,34 +338,8 @@ start.spring.io(Bean Validation Description Change)
 일요일                      4722 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
 ```
 
-
-
 <!--END_SECTION:waka-->
-  
-<!--
-**sihyunjojo/sihyunjojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🤝 Contribution
-Spring Boot Docker Guide(command not working)
-- My Portpolio
--->
-
-##### 🐧 gitanimals
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/sihyunjojo"
-  width="600"
-  height="300"
-/>
-</a>
 
 <!-- ### 🙂 &nbsp;Portfolio 
 [Notion Portfolio(fix...)](https://99sihyun.notion.site/Junior-Backend-Developer-b41971c29c8446eaab5e99c78b3795bc?pvs=4) -->
