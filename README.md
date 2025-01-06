@@ -14,10 +14,7 @@
 * * *
 
 <div align="center">
-![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=tph02361)
  
-<img src="https://mazandi.herokuapp.com/api?handle=tph02361&theme=warm"/>
-
 ![BongSangKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=BongSangKim&show_icons=true&theme=transparent)
 * * *
  
