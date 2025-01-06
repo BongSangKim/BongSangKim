@@ -101,14 +101,60 @@
 
 <hr/>
 
-<!-- mode end -->
 
-### Activity
-- 삼성 SW 청년 아카데미 (24.01.01 ~ )
+## 🛠️&nbsp; Tech Stacks
 
-* * * 
-<!-- endline -->
+<table>
+  <tr>
+    <td rowspan="2" align="center"><b>Language</b></td>
+    <td><img src="https://staging.svgrepo.com/show/184143/java.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Java</b></td>
+    <td rowspan="3" align="center"><b>Database</b></td>
+    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlt-eR5tE_V3E6Idxl8mia5JV9gO1de6f86A&s" width="16px" alt="_icon" />&nbsp;&nbsp;<b>MySQL</b></td>
+    <td rowspan="2" align="center"><b>Tool</b></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>ELK Stack</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_LightBlue.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Go</b></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>PostgreSQL</b></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg"
+     width="16px" alt="_icon" />&nbsp;&nbsp;<b>Hadoop</b></td>
+  </tr>
+  <tr>
+    <td rowspan="1" align="center"><b>Frameworks</b></td>
+    <td><img src="https://user-images.githubusercontent.com/112257466/209075280-78be8487-7d6a-485c-92a8-d6677f0caab9.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Spring Boot</b></td>
+    <td><img src="https://www.svgrepo.com/show/331488/mongodb.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>MongoDB</b></td>
+    <td rowspan="3" align="center"><b>Infra</td>
+    <td><img src="https://www.svgrepo.com/show/452192/docker.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Docker</b></td>
+  </tr>
+  <tr>
+    <td rowspan="2" align="center"><b>ORM</b></td>
+    <td><img src="https://user-images.githubusercontent.com/112257466/209076523-777fe02a-455f-48a0-a4b1-aeb9fff17b10.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>JPA</b></td>
+    <td rowspan="2" align="center"><b>Message Queue</b></td>
+    <td><img src="https://www.svgrepo.com/show/439288/redis.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Redis</b>
+    <td><img src="https://www.svgrepo.com/show/373924/nginx.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Nginx</b></td>
+    
+  </tr>
+  <tr>
+    <td><img src="https://github.com/GDSC-Team-J/ADDI-ML/assets/112257466/dff863c4-fb90-4747-a621-bdbd2c44a0be" width="16px" alt="_icon" />&nbsp;&nbsp;<b>QueryDSL</b></td>
+    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWjXADv-XcMBeVYbxROMcVPc0l9SGQr5KSPw&s" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Kafka</b></td>
+    <td><img src="https://www.svgrepo.com/show/353829/grafana.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Grafana</b></td>
+  </tr>
+</table> 
 
+
+### 🌱 &nbsp;I’m currently learning ...
+<p align="left">
+  <!-- <img src="https://img.shields.io/badge/Elastic_Stack-005571?style=flat-square&logo=elasticstack&logoColor=white"/></a> -->
+  <!-- <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>  -->
+  <!-- <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/></a> -->
+  <!-- <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white"/></a> -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Jmeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+</p>
+
+
+<!-- ### 🔭 &nbsp;I’m currently working on ... -->
 
 
 <div align=center>
@@ -148,6 +194,18 @@
 	<br>
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
+
+
+<!-- mode end -->
+
+### Activity
+- 삼성 SW 청년 아카데미 (24.01.01 ~ )
+
+* * * 
+<!-- endline -->
+
+
+
 <br>
 <div align="center">
     <h3>🏃 Activities 🏃‍</h3>
@@ -230,59 +288,6 @@
 
 
 
-## 🛠️&nbsp; Tech Stacks
-
-<table>
-  <tr>
-    <td rowspan="2" align="center"><b>Language</b></td>
-    <td><img src="https://staging.svgrepo.com/show/184143/java.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Java</b></td>
-    <td rowspan="3" align="center"><b>Database</b></td>
-    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlt-eR5tE_V3E6Idxl8mia5JV9gO1de6f86A&s" width="16px" alt="_icon" />&nbsp;&nbsp;<b>MySQL</b></td>
-    <td rowspan="2" align="center"><b>Tool</b></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>ELK Stack</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_LightBlue.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Go</b></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>PostgreSQL</b></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg"
-     width="16px" alt="_icon" />&nbsp;&nbsp;<b>Hadoop</b></td>
-  </tr>
-  <tr>
-    <td rowspan="1" align="center"><b>Frameworks</b></td>
-    <td><img src="https://user-images.githubusercontent.com/112257466/209075280-78be8487-7d6a-485c-92a8-d6677f0caab9.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Spring Boot</b></td>
-    <td><img src="https://www.svgrepo.com/show/331488/mongodb.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>MongoDB</b></td>
-    <td rowspan="3" align="center"><b>Infra</td>
-    <td><img src="https://www.svgrepo.com/show/452192/docker.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Docker</b></td>
-  </tr>
-  <tr>
-    <td rowspan="2" align="center"><b>ORM</b></td>
-    <td><img src="https://user-images.githubusercontent.com/112257466/209076523-777fe02a-455f-48a0-a4b1-aeb9fff17b10.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>JPA</b></td>
-    <td rowspan="2" align="center"><b>Message Queue</b></td>
-    <td><img src="https://www.svgrepo.com/show/439288/redis.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Redis</b>
-    <td><img src="https://www.svgrepo.com/show/373924/nginx.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Nginx</b></td>
-    
-  </tr>
-  <tr>
-    <td><img src="https://github.com/GDSC-Team-J/ADDI-ML/assets/112257466/dff863c4-fb90-4747-a621-bdbd2c44a0be" width="16px" alt="_icon" />&nbsp;&nbsp;<b>QueryDSL</b></td>
-    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWjXADv-XcMBeVYbxROMcVPc0l9SGQr5KSPw&s" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Kafka</b></td>
-    <td><img src="https://www.svgrepo.com/show/353829/grafana.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Grafana</b></td>
-  </tr>
-</table> 
-
-
-### 🌱 &nbsp;I’m currently learning ...
-<p align="left">
-  <!-- <img src="https://img.shields.io/badge/Elastic_Stack-005571?style=flat-square&logo=elasticstack&logoColor=white"/></a> -->
-  <!-- <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>  -->
-  <!-- <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/></a> -->
-  <!-- <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white"/></a> -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache_Jmeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-</p>
-
-
-<!-- ### 🔭 &nbsp;I’m currently working on ... -->
 
 
 ### 🤝 &nbsp;Contribution
