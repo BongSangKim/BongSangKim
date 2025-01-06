@@ -102,7 +102,7 @@
       <td>개인프로젝트</td>
       <td><b><a href="https://github.com/BongSangKim/noteshub-view-switcher">NotesHub View Switcher</a></b></td>
       <td>Chrome Extension, JavaScript, CSS</td>
-      <td>Chrome 웹스토어 출시</td>
+      <td><b><a href="https://chromewebstore.google.com/detail/noteshub-view-switcher/bcbagjonbldlbninmhodehaahefhboof?hl=en">Chrome 웹스토어 출시</a></b></td>
       <td>2024.11</td>
     </tr>
      <tr>
@@ -114,9 +114,9 @@
     </tr>
      <tr>
       <td>개인프로젝트</td>
-      <td><b><a href="#">구미 SSAFY 식단 알림 서비스</a></b></td>
+      <td><b><a href="https://github.com/BongSangKim/samsung-food-checker">구미 SSAFY 식단 알림 서비스</a></b></td>
       <td>Full Stack, express, SQLite</td>
-      <td>서버 배포</td>
+      <td><b><a href="http://gumissafy.duckdns.org/index.html">서버 배포</a></b></td>
       <td>2024.09 ~ 2024.10</td>
     </tr>
      <tr>
