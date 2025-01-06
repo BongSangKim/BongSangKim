@@ -4,17 +4,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=300&lines=BongSangKim+Github)](https://git.io/typing-svg)
 
-
-
- 
-
 ### Activity
 - 삼성 SW 청년 아카데미 (24.01.01 ~ )
 
 * * *
-
 <div align="center">
- 
 ![BongSangKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=BongSangKim&show_icons=true&theme=transparent)
 * * *
  
@@ -108,30 +102,6 @@
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
     </div><br>
 </div>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=BongSangKim)](https://git.io/streak-stats)
-
-
-<!-- mode start -->
-
-<a href="https://github.com/BongSangKim/BongSangKim">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=BongSangKim&repo=BongSangKim&theme=nightowl&hide_border=true&bg_color=20232a&text_color=fff">
-        <img src= "https://github-readme-stats.vercel.app/api/pin/?username=BongSangKim&repo=BongSangKim&theme=buefy&icon_color=FFC700" />
-    </picture>
-</a>
-<a href="https://github.com/BongSangKim/BongSangKim">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=nightowl&hide_border=true&bg_color=20232a&text_color=fff">
-        <img src= "https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy&icon_color=FFC700" />
-    </picture>
-</a>
-<a href="https://github.com/BongSangKim/Algorithm">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=BongSangKim&repo=Algorithm&theme=nightowl&hide_border=true&bg_color=20232a&text_color=fff">
-        <img src= "https://github-readme-stats.vercel.app/api/pin/?username=BongSangKim&repo=Algorithm&theme=buefy&icon_color=FFC700" />
-    </picture>
-</a>
 
 <hr/>
 
