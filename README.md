@@ -288,13 +288,6 @@
 Spring Boot Docker Guide(command not working)
 start.spring.io(Bean Validation Description Change)
 -->
-### 📌 &nbsp;Latest Blog Post
-[2024/12/11 - [DB] MongoDB를 활용한 로그 관리: 설계부터 확장까지](https://velog.io/@plate0113/MongoDB%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-%EB%A1%9C%EA%B7%B8-%EA%B8%B0%EB%A1%9D-%EB%B0%8F-%EC%A1%B0%ED%9A%8C-Spring-DTO)</br>
-[2024/12/07 - [회고] 실시간 WorkFlow 관리서비스 회고](https://velog.io/@plate0113/ssafy-%EC%9E%90%EC%9C%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0)</br>
-[2024/12/05 - [회고] SSAFY(삼성SW청년아카데미) 회고](https://velog.io/@plate0113/%ED%9A%8C%EA%B3%A0-SSAFY%EC%82%BC%EC%84%B1SW%EC%B2%AD%EB%85%84%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8-%ED%9A%8C%EA%B3%A0-%EA%B2%BD%ED%97%98%EA%B3%BC-%ED%8C%81)</br>
-[2024/09/16 - [JPA] JPA에서 연결 테이블의 PK 설정하기](https://velog.io/@plate0113/JPA-JPA%EC%97%90%EC%84%9C-%EC%97%B0%EA%B2%B0-%ED%85%8C%EC%9D%B4%EB%B8%94%EC%9D%98-PK-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)</br>
-[2024/07/22 - [오픈소스] 어렵기만한 오픈소스 기여! 누구나 쉽게 도전 하는 방법!!](https://velog.io/@plate0113/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%96%B4%EB%A0%B5%EA%B8%B0%EB%A7%8C%ED%95%9C-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EA%B8%B0%EC%97%AC-%EC%B4%88%EB%B3%B4%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8F%84-%EC%89%BD%EA%B2%8C-%EB%8F%84%EC%A0%84-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)</br>
-</br>
 
 ## 💻 &nbsp;Stats 
 
@@ -305,9 +298,6 @@ start.spring.io(Bean Validation Description Change)
     <a>
         <img src="https://github-readme-stats.vercel.app/api?username=BongSangKim&&show_icons=true&theme=tokyonight&r\locale=kr" style="margin-left: 10px; vertical-align:top" height=130 />
     </a>
-	
-![BongSangKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=BongSangKim&layout=compact&theme=tokyonight&show_icons=true&theme=transparent)
-
 </p>
 
 
