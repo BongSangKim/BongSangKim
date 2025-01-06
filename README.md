@@ -303,19 +303,13 @@ start.spring.io(Bean Validation Description Change)
 #### 🎓 Github Stats
 <p align="left">
     <a>
-        <img src="https://github-readme-stats.vercel.app/api?username=BongSangKim&&show_icons=true&theme=tokyonight&rank_icon=percentile&\locale=kr" style="margin-left: 10px; vertical-align:top" height=130 />
+        <img src="https://github-readme-stats.vercel.app/api?username=BongSangKim&&show_icons=true&theme=tokyonight&r\locale=kr" style="margin-left: 10px; vertical-align:top" height=130 />
     </a>
 	
 ![BongSangKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=BongSangKim&layout=compact&theme=tokyonight&show_icons=true&theme=transparent)
 
-    <a>
-    	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BongSangKim&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook,CSS,PUG,Batchfile,shell" style="margin-left: 10px; vertical-align:top" height=130 />
-    </a>
 </p>
 
-
-<!-- ### 🙂 &nbsp;Portfolio 
-[Notion Portfolio(fix...)](https://99sihyun.notion.site/Junior-Backend-Developer-b41971c29c8446eaab5e99c78b3795bc?pvs=4) -->
 
 <!--
 **BongSangKim/BongSangKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
