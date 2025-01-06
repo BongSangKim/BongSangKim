@@ -2,13 +2,14 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBongSangKim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=300&lines=BongSangKim+Github)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=300&lines=BongSangKim+Github)](https://git.io/typing-svg) -->
 
 문제 해결을 즐기는 개발자 김봉상입니다.
 
 * * *
- 
-<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+
+<!-- Tech Stacks start -->
+## 🛠 Tech Stacks 🛠
 </br>
 <!-- <img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/> -->
 
@@ -51,7 +52,7 @@
   </tr>
  <tbody>
 </table>
-
+<!-- Tech Stacks end -->
 ## 🔨 I can use 🔨
 
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
