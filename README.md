@@ -7,10 +7,7 @@
 ### Activity
 - 삼성 SW 청년 아카데미 (24.01.01 ~ )
 
-* * *
-<div align="center">
-	
-![BongSangKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=BongSangKim&show_icons=true&theme=transparent)
+
 * * *
  
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
@@ -308,37 +305,12 @@ start.spring.io(Bean Validation Description Change)
     <a>
         <img src="https://github-readme-stats.vercel.app/api?username=BongSangKim&&show_icons=true&theme=tokyonight&rank_icon=percentile&\locale=kr" style="margin-left: 10px; vertical-align:top" height=130 />
     </a>
+	
+![BongSangKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=BongSangKim&show_icons=true&theme=transparent)
     <a>
     	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BongSangKim&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook,CSS,PUG,Batchfile,shell" style="margin-left: 10px; vertical-align:top" height=130 />
     </a>
 </p>
-
-
-#### ⏲️ WorkStats
-<!-- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sihyunjojo&hide_progress=true&theme=dark) -->
-
-<!--START_SECTION:waka-->
-**저는 아침형 인간이에요. 🐤** 
-
-```text
-🌞 아침                     13708 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
-🌆 낮　                     43607 commits       █████████████░░░░░░░░░░░░   50.94 % 
-🌃 저녁                     18951 commits       ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
-🌙 밤　                     9344 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-```
-📅 **제가 가장 생산적인 날은 금요일이에요.** 
-
-```text
-월요일                      15692 commits       █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
-화요일                      12342 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-수요일                      14551 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-목요일                      17698 commits       █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
-금요일                      17716 commits       █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
-토요일                      2889 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-일요일                      4722 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-```
-
-<!--END_SECTION:waka-->
 
 
 <!-- ### 🙂 &nbsp;Portfolio 
