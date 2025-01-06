@@ -235,14 +235,6 @@
     </table>
 </div>
 
-<div align="center">
-	<b>Just Do it</b>
-</div>
-
-
-
-
-
 ### 🤝 &nbsp;Contribution
 [Angular - Contributing Guide (improve readability)](https://github.com/angular/angular/pull/56974)</br>
 <!-- 
@@ -252,7 +244,7 @@ start.spring.io(Bean Validation Description Change)
 
 ## 💻 &nbsp;Stats 
 
-[![wakatime](https://wakatime.com/badge/user/01180168-8b97-40a8-a406-568eefd227b1.svg)](https://wakatime.com/@01180168-8b97-40a8-a406-568eefd227b1)
+<!-- [![wakatime](https://wakatime.com/badge/user/01180168-8b97-40a8-a406-568eefd227b1.svg)](https://wakatime.com/@01180168-8b97-40a8-a406-568eefd227b1) -->
 
 #### 🎓 Github Stats
 <p align="left">
@@ -260,19 +252,3 @@ start.spring.io(Bean Validation Description Change)
         <img src="https://github-readme-stats.vercel.app/api?username=BongSangKim&&show_icons=true&theme=tokyonight&r\locale=kr" style="margin-left: 10px; vertical-align:top" height=130 />
     </a>
 </p>
-
-
-<!--
-**BongSangKim/BongSangKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
