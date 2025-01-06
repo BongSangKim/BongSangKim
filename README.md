@@ -101,19 +101,6 @@
     </div><br>
 </div>
 
-<hr/>
-
-### 🌱 &nbsp;I’m currently learning ...
-
-<!-- 채우기 -->
-
-<!-- ### 🔭 &nbsp;I’m currently working on ... -->
-
-
-<div align=center>
-	<h3>📚 Tech Stack 📚</h3>
-<!-- 	<p>✨ Platforms & Languages ✨</p> -->
-</div>
 <div align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
@@ -133,12 +120,7 @@
 	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34"/>
-</div>
-<br>
-<div align=center>
-	<h3>🛠 Tools 🛠</h3>
-</div>
-<div align=center>
+
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white"/>
