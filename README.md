@@ -144,7 +144,7 @@
 </table>
 
 ### 🤝 Contribution
-[Ggoogle-oauth2-login-spring-react-demo
+[google-oauth2-login-spring-react-demo
 ](https://github.com/baezzys/google-oauth2-login-spring-react-demo)
 
 ## 💻 Stats 
