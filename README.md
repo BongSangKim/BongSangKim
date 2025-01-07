@@ -66,6 +66,13 @@
     </td>
   </tr>
   <tr>
+    <th>Development Environment</th>
+    <td>
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/Windows WSL-0078D6?style=flat-square&logo=Windows&logoColor=white"/>&nbsp;
+    </td>
+  </tr>
+  <tr>
     <th>Communication</th>
     <td>
       <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>&nbsp;
