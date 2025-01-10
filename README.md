@@ -156,8 +156,6 @@
 
 ## 💻 Stats 
 
-<!-- [![wakatime](https://wakatime.com/badge/user/01180168-8b97-40a8-a406-568eefd227b1.svg)](https://wakatime.com/@01180168-8b97-40a8-a406-568eefd227b1) -->
-
 #### 🎓 Github Stats
 <p>
     <a>
